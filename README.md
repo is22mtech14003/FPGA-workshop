@@ -28,3 +28,5 @@ Configurable Logic Block (CLB) is responsible for the combinational or sequentia
 # Basys FPGA Board
 The FPGA used in this repository is Basys 3 Artix-7 FPGA. Below is the snippet of Basys3 FPGA board and some major elements on the board.
 ![image](https://user-images.githubusercontent.com/120499567/208096167-dbca734b-b301-4553-95b2-3bc191be0fdd.png)
+### [4 bit counter run in xilinx vivado] 
+A 4-bit up counter is being used for exploring the Vivado tool and OpenFPGA. Below mentioned the RTL for the counter modules that is being used

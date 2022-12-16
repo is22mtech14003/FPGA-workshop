@@ -9,6 +9,4 @@ FPGA (Field Programmable Gate Array) are intergated circuits which have a comple
 
 | FPGA | ASIC |
 
-##### for png/jpgs
-
-<img src="C:\Users\welcome\Desktop\fpga workshop\day2\5.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Flove%2F&psig=AOvVaw3PgYxPW-e0VyD5Wvw1ADtN&ust=1671275103511000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjAv4j__fsCFQAAAAAdAAAAABAE">

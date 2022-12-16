@@ -103,7 +103,6 @@ The OpenFPGA framework is the first open-source FPGA IP generator which supports
 
 Some key features of OpenFPGA are: - Use of Automation Techniques - Reduction of FPGA developement cycle to few days - Provides open source design tools
 
-![13](https://user-images.githubusercontent.com/120499567/208107813-b60a87f7-74fb-427a-ab1c-547c6ae074c7.png)
 
 # VPR
 

@@ -151,5 +151,10 @@ $VTR_ROOT/vtr_flow/scripts/run_vtr_flow.py \
   
   The snippets mentioned below show some of the stages from the VTR flow
   
+ |![3](https://user-images.githubusercontent.com/120499567/208122727-21d023a3-5ac6-41f0-9157-3def64172de6.png)|![4](https://user-images.githubusercontent.com/120499567/208123121-e440bc63-31a3-4cbf-9b4a-3e8696970c21.png)|
+
+
+  
+  
   
 

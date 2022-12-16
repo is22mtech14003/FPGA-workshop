@@ -7,5 +7,5 @@ FPGA (Field Programmable Gate Array) are intergated circuits which have a comple
 
 ## FPGA vs ASIC Comparison
 
-FPGA|ASIC
+| FPGA | ASIC |
 

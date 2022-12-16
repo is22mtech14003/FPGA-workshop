@@ -76,11 +76,17 @@ A 4-bit up counter is being used for exploring the Vivado tool and OpenFPGA. Bel
  ```
  ## Counter Simulation and Elaboration
  The snippet below shows the behavioural simulation for the up counter.
+ 
  ![Screenshot 2022-12-16 184808](https://user-images.githubusercontent.com/120499567/208107350-b6d90214-85c0-4765-a8d3-1ff3aa6c650d.png)
+ 
 The snippet below is the schematic of the counter design after elaboration.
+
 ![12](https://user-images.githubusercontent.com/120499567/208107553-9804c3ba-c935-4dbb-9177-eabd19d34ab7.png)
+
 In I/O planning, the ports for modules are assigned respective FPGA pins. The snippet below shows the details about I/O planning
+
 ![13](https://user-images.githubusercontent.com/120499567/208107813-b60a87f7-74fb-427a-ab1c-547c6ae074c7.png)
+
 ## Counter Synthesis
 ynthesis is the process that converts RTL into a technologyspecific gate-level netlist, optimized for a set of pre-defined constraints.
 

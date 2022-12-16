@@ -18,5 +18,4 @@ FPGA (Field Programmable Gate Array) are intergated circuits which have a comple
 |Useful for prototyping or validating a design|Used for final product design after validation|
 # FPGA Architecture
 The FPGA Architecture primarily consists of : - Configurable Logic Blocks - Programmable Interconnects - I/O Cells - Memory / Block RAM
-![Minion](https://github.com/is22mtech14003/FPGA-workshop/issues/1#issue-1500098141)
-
+![fpga_arch_1](https://user-images.githubusercontent.com/120499567/208094795-c7714e05-9cfe-47f4-8a1b-7c5b5a097643.png)

@@ -267,6 +267,16 @@ Post Synthesis simulation in VTR flow is same as Post Implementation simulations
   ![7](https://user-images.githubusercontent.com/120499567/208620857-61f5a19f-dc9d-4b63-9a49-c60981be9946.png)
   
   ![9](https://user-images.githubusercontent.com/120499567/208621066-318c609f-10e3-48d5-9f88-350fe1a49c5e.png)
+  
+  
+  #  Day 3 - RISCV Core Programming Using Vivado
+  
+  A 4-stage pipelined RISC-V core, named RVMYTH, is used in the repository. A complete RTL to Bitstream flow is implemented over the RVMYTH core. The Core is initially developed in High-level language named TL-Verilog and finally compiled to Verilog HDL.
+  
+  # RTL To Synthesis
+  
+  The RISC-V RTL consists of multiple blocks/modules. Some of them are:
+  - Instruction memory
 
 
   

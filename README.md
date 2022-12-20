@@ -323,12 +323,64 @@ The snippet below shows the utilization of the counter in SOFA FPGA Fabric.
 
 ![1](https://user-images.githubusercontent.com/120499567/208643706-5e47e43f-baf4-4521-8886-cdde74ffbd12.png)
 
-# SOFA Counter Timing
-
-The snippet below shows the setup and hold timing summary the counter in SOFA FPGA Fabric.
 
 ![3](https://user-images.githubusercontent.com/120499567/208644385-54a2a6ab-8215-4a97-aaf8-ba5414f4d128.png)
 
+![5](https://user-images.githubusercontent.com/120499567/208646260-1ec6257c-0397-4432-868a-656095361bb8.png)
+
+# SOFA Counter Timing
+
+The snippet below shows the setup and hold timing summary the counter in SOFA FPGA Fabric
+
+![4](https://user-images.githubusercontent.com/120499567/208650529-c69e3c49-a3af-4168-9453-75ef5e8a6c58.png)
+
+![hold](https://user-images.githubusercontent.com/120499567/208650636-819ebbf6-5183-4b1b-8cb3-c1c719610e4b.png)
+
+## SOFA Counter Post Implementation
+
+![Screenshot 2022-12-19 000932](https://user-images.githubusercontent.com/120499567/208651131-934c4447-ee5b-41bc-9e20-2f33df40f5ae.png)
+
+
+
+# Day 5 - RISCV Core on Custom SOFA Fabric
+
+The RVMYTH discussed is now used along with the custom SOFA FPGA fabric. The design is then taken through the complete OpenFPGA framework and VTR flow. The various logs and reports generated as the outcome of the flow are mentioned in below sections.
+
+## SOFA RVMYTH Timing
+
+The snippets below shows the setup and hold timing reports generated for RVMYTH core on SOFA FPGA Fabric by the tool.
+
+
+
+![hold](https://user-images.githubusercontent.com/120499567/208652279-ce4da1cb-abb1-485f-adae-4c80c3bb589b.png)
+
+![4](https://user-images.githubusercontent.com/120499567/208652330-e75e88d0-ec7f-4b79-8edb-20903e81726e.png)
+
+## SOFA RVMYTH Utilization
+
+![1](https://user-images.githubusercontent.com/120499567/208652542-3eb05264-5b6d-4ad8-bfc9-2f87c3bb460f.png)
+
+![3](https://user-images.githubusercontent.com/120499567/208652621-ef02960f-b372-4f32-84aa-a1df66bf5331.png)
+
+### SOFA RVMYTH Post Implementation
+
+![Screenshot 2022-12-19 000932](https://user-images.githubusercontent.com/120499567/208653082-a6ad6029-65d4-4f32-92db-6f5de396fabd.png)
+
+
+# References
+
+- VLSI System Design:https://www.vlsisystemdesign.com/ip/
+- RISC-V based Microprocessor:https://github.com/shivanishah269/risc-v-core
+- 4-stage RISC-V Core https://github.com/ShonTaware/RISC-V_Core_4_Stage
+- SOFA:https://github.com/lnis-uofu/SOFA
+- OpenFPGA:https://openfpga.readthedocs.io/en/master/
+- VPR:https://docs.verilogtorouting.org/en/latest/vpr/
+- VTR:https://docs.verilogtorouting.org/en/latest/
+
+# Acknowledgement
+
+- https://github.com/kunalg123 Co-founder, VSD Corp. Pvt. Ltd
+- https://github.com/nandithaec
 
 
 

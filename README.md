@@ -263,6 +263,10 @@ Post Synthesis simulation in VTR flow is same as Post Implementation simulations
   --gen_post_synthesis_netlist on
   
   ![Screenshot 2022-12-19 000932](https://user-images.githubusercontent.com/120499567/208619481-5660eea7-1895-4972-8ad3-9b4768308039.png)
+  
+  ![7](https://user-images.githubusercontent.com/120499567/208620857-61f5a19f-dc9d-4b63-9a49-c60981be9946.png)
+  
+  ![9](https://user-images.githubusercontent.com/120499567/208621066-318c609f-10e3-48d5-9f88-350fe1a49c5e.png)
 
 
   

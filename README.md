@@ -297,6 +297,23 @@ The design is synthesized in Vivado tool for Basys3 FPGA, along with some constr
 
 ![3](https://user-images.githubusercontent.com/120499567/208623954-78a19ef4-0bc3-47de-8da0-3dc13dd7b391.png)
 
+![10](https://user-images.githubusercontent.com/120499567/208640239-1c85a523-3f6a-4361-bd21-911d9ea213c8.png)
+
+![8](https://user-images.githubusercontent.com/120499567/208640528-8dbe2ae0-329e-410d-b4b5-0278d29e39a9.png)
+
+![7](https://user-images.githubusercontent.com/120499567/208640960-b485d77e-cca8-46d6-a7f4-3346ef818829.png)
+
+The snippet below shows the timing summary for the RVMYTH implemented core.
+
+![12](https://user-images.githubusercontent.com/120499567/208641179-b3fcc037-13d1-4a78-86fc-a1b55a3d6dbe.png)
+
+
+![13](https://user-images.githubusercontent.com/120499567/208641358-812987b4-c4d3-43c7-9b50-6b04f4e5aa6e.png)
+
+
+
+
+
 
 
   

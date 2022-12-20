@@ -312,6 +312,31 @@ The snippet below shows the timing summary for the RVMYTH implemented core.
 
 
 
+# Day 4 - Introduction To SOFA FPGA Fabric
+
+SOFA (Skywater Opensource FPGAs) are a series of open-source FPGA IPs designed using open-source Skywater 130nm PDKs and OpenFPGA framework.
+The FPGA IP design used in this repository is FPGA1212_QLSOFA_HD_PNR which has 50MHz of maximum operating speed, 1152 LUTs, 2304 Flip-flops, 1152 soft adders. The complete design is used over OpenFPGA framework and the various reports are generated.
+
+# SOFA Counter Area
+
+The snippet below shows the utilization of the counter in SOFA FPGA Fabric.
+
+![1](https://user-images.githubusercontent.com/120499567/208643706-5e47e43f-baf4-4521-8886-cdde74ffbd12.png)
+
+# SOFA Counter Timing
+
+The snippet below shows the setup and hold timing summary the counter in SOFA FPGA Fabric.
+
+![3](https://user-images.githubusercontent.com/120499567/208644385-54a2a6ab-8215-4a97-aaf8-ba5414f4d128.png)
+
+
+
+
+
+
+
+
+
 
 
 

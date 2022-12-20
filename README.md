@@ -4,7 +4,8 @@
 ## Introduction to FPGA
 
 FPGA (Field Programmable Gate Array) are intergated circuits which have a complex arrangement of configurable logic blocks (CLBs) and programmable interconnects.
-
+ FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.
+ 
 ## FPGA vs ASIC Comparison
 
 |FPGA|ASIC|

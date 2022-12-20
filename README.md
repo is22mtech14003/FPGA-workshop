@@ -277,6 +277,26 @@ Post Synthesis simulation in VTR flow is same as Post Implementation simulations
   
   The RISC-V RTL consists of multiple blocks/modules. Some of them are:
   - Instruction memory
+  - Data memory
+  - ALU
+  - I/O ports
+  
+  The snippets below shows the behavioural simulation of the RVMYTH RISC-V core in vivado simulator. The instruction memory contains instructions for addition of integers from 1 to 9. The output signal in the waves display the final sum
+  
+  ![2](https://user-images.githubusercontent.com/120499567/208622413-1efcfca6-a6ec-4200-a718-c95da4642213.png)
+
+The snippet below shows the elaboration stage where the FPGA pins are mapped to the RTL input/output ports.
+
+![4](https://user-images.githubusercontent.com/120499567/208623012-af03e591-d770-4105-abe1-21cf11a5031e.png)
+
+![6](https://user-images.githubusercontent.com/120499567/208623210-1e24ba1b-f810-418e-9810-f43e79583b72.png)
+
+The design is synthesized in Vivado tool for Basys3 FPGA, along with some constraints. The below snippet show the schematic of design after synthesis and the constraints used for synthesis.
+
+![5](https://user-images.githubusercontent.com/120499567/208623764-e9d91fe6-88c1-4edb-81db-e9c227a0bf09.png)
+
+![3](https://user-images.githubusercontent.com/120499567/208623954-78a19ef4-0bc3-47de-8da0-3dc13dd7b391.png)
+
 
 
   
